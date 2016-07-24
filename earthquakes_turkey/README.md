@@ -6,3 +6,7 @@ Since the magnitude data is imperfect and I was to lazy to clean up the mess,
 the magnitudes and hence the size of the points are garbled.
 
 The countour lines don't mean anything meaningful, I just found it fancy.
+
+# Sample plot
+
+![Sample Plot](earthquakes.png "Sample Plot")
